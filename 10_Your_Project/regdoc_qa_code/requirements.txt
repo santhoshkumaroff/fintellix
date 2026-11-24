@@ -1,0 +1,6 @@
+anthropic
+sentence-transformers
+faiss-cpu
+pypdf
+numpy
+scikit-learn

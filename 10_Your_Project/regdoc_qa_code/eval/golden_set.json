@@ -1,0 +1,10 @@
+[
+  {"question": "When does a term loan become an NPA?", "must_contain": ["90 days"], "type": "definition"},
+  {"question": "What is the overdue range for SMA-1?", "must_contain": ["31 and 60"], "type": "numeric"},
+  {"question": "What is SMA-2?", "must_contain": ["61 and 90"], "type": "numeric"},
+  {"question": "How long can an asset stay substandard?", "must_contain": ["12 months"], "type": "definition"},
+  {"question": "What is the minimum liquidity coverage ratio?", "must_contain": ["100 percent"], "type": "numeric"},
+  {"question": "How is expected credit loss calculated?", "must_contain": ["probability of default", "loss given default"], "type": "formula"},
+  {"question": "Which stage uses a 12-month ECL?", "must_contain": ["Stage 1"], "type": "definition"},
+  {"question": "Who approves changes to reported data?", "must_contain": ["checker"], "type": "process"}
+]
